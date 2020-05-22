@@ -8,4 +8,4 @@
 <b><p align="justify">In the first step a software pipeline has been built to detect the lanelines in an image and then the software pipeline is now tested on a video footage and then the changes have been made according to the requirements to properly identify the lane lines in an image</p></b>
 
 ## To watch the video output
-<a href="examples/P1_example.mp4">Watch the video here</a>
+[![Watch the video](https://user-images.githubusercontent.com/48044041/82486501-94f7f100-9afa-11ea-815d-a80c59b07ec0.jpg)](https://www.youtube.com/watch?v=-VWKaLw-0V8&feature=youtu.be)
